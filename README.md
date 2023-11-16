@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My portfolio is being built by me and can be accessed temporarily from here https://jurence.github.io/
 <!--
 **Jurence/jurence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
